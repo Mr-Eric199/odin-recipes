@@ -1,0 +1,26 @@
+*{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 700;
+    border: 2px solid red;
+    
+}
+
+ul{
+    color: brown;
+}
+h1,img{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 300px;
+    margin: 10px 50%;
+}
+a{
+    /* display: block; */
+    height: 200px;
+    width: 500px;
+}
